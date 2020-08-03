@@ -76,7 +76,7 @@ to change the color of the whole background ***/
 /*******/
 
 /********* adding style to column ************/
-.footer-item {
+
  /* float: left; 
   width: 31%;
   margin: 20px 1.15%;
@@ -84,7 +84,7 @@ to change the color of the whole background ***/
   background-color: #B2D6FF;
   border-radius: 15px;    /* Medium blue */
 
-}
+
 /*** adding another overflow to tell the footer to ignore the flow ***/
 .footer {
   overflow: hidden;
